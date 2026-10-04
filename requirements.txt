@@ -1,0 +1,23 @@
+# Manipulation de donnees
+numpy
+pandas
+matplotlib
+
+# Dataset HuggingFace
+datasets
+
+# Modelisation NLP
+transformers
+torch
+seqeval
+sklearn-crfsuite
+
+# Evaluation / metriques
+scikit-learn
+
+# Widget de test interactif (notebook)
+ipywidgets
+
+# Notebook dans VS Code
+jupyter
+ipykernel
